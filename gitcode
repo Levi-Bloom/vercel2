@@ -1,0 +1,10 @@
+Uploading
+git add .
+git commit -m "Second commit"
+git push
+
+
+Downloading 
+git reset --hard HEAD
+git clean -xffd
+git pullS
