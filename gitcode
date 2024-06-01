@@ -7,4 +7,4 @@ git push
 Downloading 
 git reset --hard HEAD
 git clean -xffd
-git pullS
+git pull
