@@ -3,6 +3,7 @@ import { useEffect, useState, React } from 'react';
 
 
 export default function Post(props) {
+
       const [data, setData] = useState(null);
       const [loading, setLoading] = useState(true);
     
