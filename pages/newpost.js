@@ -1,4 +1,5 @@
 import React from 'react'
+import Post from './post'
 
 export default function newpost() {
   return (
@@ -8,6 +9,9 @@ export default function newpost() {
     <input placeholder='Content'/>
     <div>
         <button> Create Post </button>
+        <div> 
+<Post id = {1} />
+        </div>
     </div>
     </div>
     </div>
