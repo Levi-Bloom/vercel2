@@ -1,5 +1,5 @@
 "use client";
-import { useEffect, useState, react } from 'react';
+import { useEffect, useState, React } from 'react';
 
 const Post = (props) => {
   const [data, setData] = useState(null);
@@ -36,5 +36,4 @@ const Post = (props) => {
   );
   </div>
 }
-
 export default Post;
